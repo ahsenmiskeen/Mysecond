@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=67FED866-BA28-47EE-9ACA-E5679E679B80
+VaultGUID=3BB85DC0-63C7-437A-A556-C495D6446A28
+ReleaseVaultName=ECAD WORKSPACE EUROPE
+ItemGUID=67FED866-BA28-47EE-9ACA-E5679E679B80
 IncludeDesignInRelease=0
 
 [Preferences]
